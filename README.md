@@ -27,13 +27,16 @@ Ce projet implémente un système de facturation pour un restaurant en langage C
 
 4. Suivre les options du menu pour générer des factures, afficher toutes les factures ou rechercher des factures.
 
-Contribuer 🤝
+## Contribuer 🤝
+
 Les contributions sont les bienvenues ! N'hésitez pas à fork le dépôt et à soumettre des pull requests pour de nouvelles fonctionnalités ou améliorations. Merci d'ouvrir une issue pour tout bogue ou demande de fonctionnalité.
 
-Licence 📄
+## Licence 📄
+
 Ce projet est sous licence MIT - voir le fichier LICENSE pour plus de détails.
 
-Remerciements 🙏
+## Remerciements 🙏
+
 Réalisé avec passion pour l'apprentissage du langage C.
 Merci aux contributeurs et à la communauté open-source pour leur soutien.
 
