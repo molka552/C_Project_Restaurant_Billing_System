@@ -23,6 +23,7 @@ cd C_Project_Restaurant_Billing_System
 gcc -o restaurant_billing main.c invoice.c show_invoices.c search_invoice.c
 
 3. Exécuter le programme :
+
 ```bash
 ./restaurant_billing
 
