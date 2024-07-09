@@ -1,0 +1,14 @@
+# ninja log v6
+1	9	1720545735674854182	clean	52441c93311a5d2a
+2	56	1720545736902856831	CMakeFiles/Project_C_Systeme_Facturation_Restaurant.dir/invoice.c.o	ec7e0274f44a62e
+1	66	1720545736902856831	CMakeFiles/Project_C_Systeme_Facturation_Restaurant.dir/main.c.o	5ea55d5b65abf645
+3	67	1720545736906856838	CMakeFiles/Project_C_Systeme_Facturation_Restaurant.dir/search_invoice.c.o	da50a7793398a3ca
+2	55	1720545736902856831	CMakeFiles/Project_C_Systeme_Facturation_Restaurant.dir/show_invoices.c.o	1ddeff2260df7fe7
+0	33	1720545874079086150	build.ninja	1f8a2d6d0f4845ab
+1	5	1720545874095086170	clean	52441c93311a5d2a
+2	49	1720545875207087538	CMakeFiles/Project_C_Systeme_Facturation_Restaurant.dir/main.c.o	5ea55d5b65abf645
+3	49	1720545875207087538	CMakeFiles/Project_C_Systeme_Facturation_Restaurant.dir/show_invoices.c.o	1ddeff2260df7fe7
+4	66	1720545875211087542	CMakeFiles/Project_C_Systeme_Facturation_Restaurant.dir/search_invoice.c.o	da50a7793398a3ca
+4	73	1720545875211087542	CMakeFiles/Project_C_Systeme_Facturation_Restaurant.dir/billing_functions.c.o	e7a5b27a1d267269
+3	73	1720545875207087538	CMakeFiles/Project_C_Systeme_Facturation_Restaurant.dir/invoice.c.o	ec7e0274f44a62e
+73	104	1720545875279087626	Project_C_Systeme_Facturation_Restaurant	99b89bc76033806d
