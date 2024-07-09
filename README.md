@@ -40,4 +40,3 @@ Ce projet est sous licence MIT - voir le fichier LICENSE pour plus de détails.
 Réalisé avec passion pour l'apprentissage du langage C.
 Merci aux contributeurs et à la communauté open-source pour leur soutien.
 
-Vous pouvez maintenant copier ce bloc de texte dans votre éditeur de texte, l'enregistrer sous `README.md` dans votre projet, et il sera prêt à être utilisé sur GitHub avec une structure claire et lisible.
